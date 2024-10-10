@@ -1,0 +1,1 @@
+Projekt w ramach zajęć zarządzanie projektem wdrożeniowym.
